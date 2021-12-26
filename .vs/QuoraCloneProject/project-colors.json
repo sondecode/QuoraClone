@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef4a30d8-e275-4dda-8157-66494245e318": {
+      "ProjectGuid": "ef4a30d8-e275-4dda-8157-66494245e318",
+      "DisplayName": "QuoraClone.ViewModels",
+      "ColorIndex": 0
+    },
+    "2397a03c-1766-42b2-8f5c-1f8147a9f34c": {
+      "ProjectGuid": "2397a03c-1766-42b2-8f5c-1f8147a9f34c",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "f7a083f9-26bd-4f43-a6fe-150f84477b9f": {
+      "ProjectGuid": "f7a083f9-26bd-4f43-a6fe-150f84477b9f",
+      "DisplayName": "QuoraClone.BackendServer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
