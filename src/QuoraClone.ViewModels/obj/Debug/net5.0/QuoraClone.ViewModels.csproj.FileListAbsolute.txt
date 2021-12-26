@@ -1,0 +1,12 @@
+D:\QCCode\src\QuoraClone.ViewModels\bin\Debug\net5.0\QuoraClone.ViewModels.deps.json
+D:\QCCode\src\QuoraClone.ViewModels\bin\Debug\net5.0\QuoraClone.ViewModels.dll
+D:\QCCode\src\QuoraClone.ViewModels\bin\Debug\net5.0\ref\QuoraClone.ViewModels.dll
+D:\QCCode\src\QuoraClone.ViewModels\bin\Debug\net5.0\QuoraClone.ViewModels.pdb
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.csproj.AssemblyReference.cache
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.AssemblyInfoInputs.cache
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.AssemblyInfo.cs
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.csproj.CoreCompileInputs.cache
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.dll
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\ref\QuoraClone.ViewModels.dll
+D:\QCCode\src\QuoraClone.ViewModels\obj\Debug\net5.0\QuoraClone.ViewModels.pdb
